@@ -1,1 +1,1 @@
-# The projects listed in this folder are projects completed in a intro to Data Structures course. Projects utilize structures such as Arrays, ArrayLists, LinkedList, Queues, Stacks, BST, and implements some common operations defined by each data structure.  
+# The projects listed in this repository are projects completed in an intro to Data Structures course. Projects utilize structures such as Arrays, ArrayLists, LinkedList, Queues, Stacks, BST, and implements some common operations defined by each data structure.  
